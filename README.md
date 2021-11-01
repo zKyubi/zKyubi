@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Discord Status
 
 <a href="https://discord.com/users/713798791571964026">
-<img height="80px" src="https://discord.c99.nl/widget/theme-2/713798791571964026.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-3/713798791571964026.png" />
 </a>
 
 ### Contact me :
